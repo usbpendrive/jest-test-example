@@ -1,0 +1,14 @@
+{
+  "name": "jest-test-example",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/usbpendrive/jest-test-example",
+  "author": "Fernando <ferry.fernando@gmail.com> (https://github.com/usbpendrive)",
+  "license": "MIT",
+  "script": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
